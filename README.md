@@ -1,5 +1,11 @@
 \## Projets OpenClassrooms
 
+
+
+\- \[Ouvrir le dossier des projets](./projets/)
+
+
+
 \- \[01 — Analyse des ventes d'un e-commerce](./projets/01-analyse-ventes-ecommerce/)
 
 \- \[02 — Requêter une base de données SQL](./projets/02-requeter-base-donnees-sql/)
@@ -21,6 +27,4 @@
 \- \[10 — Étude de marché avec Python](./projets/10-etude-marche-python/)
 
 \- \[11 — Détectez les faux billets](./projets/11-detectez-faux-billets/)
-
-
 
