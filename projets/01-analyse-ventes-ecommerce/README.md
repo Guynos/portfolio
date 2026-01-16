@@ -14,11 +14,11 @@ Votre diplôme obtenu, cela fait maintenant 1 an que vous travaillez en tant que
 
 * Analyser et selectionner les graphiques pertinents pour présenter : 
 
-** La proportion des ventes par catégorie de produit 
+* La proportion des ventes par catégorie de produit 
 
-** Le montant des achats des clients (montant du panier) 
+* Le montant des achats des clients (montant du panier) 
 
-** Les évolutions : du chiffre d'affaires, du nombre d'achats des clients, du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps, du nombre de visites sur le site web au cours du temps, de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat).
+* Les évolutions : du chiffre d'affaires, du nombre d'achats des clients, du ratio (nombre d’achats des clients)/(nombre de visites) au cours du temps, du nombre de visites sur le site web au cours du temps, de la variabilité du temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat).
 
 * Le temps passé par les visiteurs sur le site web (pour les sessions ayant abouti à un achat) 
 * L’évolution du chiffre d’affaires dans les prochains mois.
