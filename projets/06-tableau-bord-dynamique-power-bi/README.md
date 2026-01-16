@@ -8,11 +8,11 @@ Vous êtes consultant Data Analyst chez ESN Data, une entreprise de services num
 
 
 
-Vous êtes déployé chez le client Sanitoral pour réaliser une mission de visualisation de données (appelée également dataviz). Il s’agit d’une société internationale qui fabrique et commercialise des soins bucco-dentaires. 
+Vous êtes déployé chez le client Sanitoral pour réaliser une mission de visualisation de données (appelée également dataviz). Il s’agit d’une société internationale qui fabrique et commercialise des soins bucco-dentaires.
 
 
 
-Sophie est cheffe de projet au sein du service Project Management Office de Sanitoral. Vous l’avez rencontrée pour comprendre le besoin de l’entreprise. 
+Sophie est cheffe de projet au sein du service Project Management Office de Sanitoral. Vous l’avez rencontrée pour comprendre le besoin de l’entreprise.
 
 
 
@@ -26,7 +26,7 @@ identifier les retards ;
 
 contrôler les performances, afin que l’équipe puisse mener les actions adéquates.
 
-Vous lui envoyez la note de cadrage du projet que vous avez établie lors de votre réunion avec elle. Avant de vous lancer dans la construction du tableau de bord, vous décidez de formaliser les user stories dans un Product Strategy Canvas à l’aide de ce modèle utilisé par les collaborateurs de ESN Data. 
+Vous lui envoyez la note de cadrage du projet que vous avez établie lors de votre réunion avec elle. Avant de vous lancer dans la construction du tableau de bord, vous décidez de formaliser les user stories dans un Product Strategy Canvas à l’aide de ce modèle utilisé par les collaborateurs de ESN Data.
 
 
 
@@ -52,5 +52,7 @@ a venir
 
 \## Images :
 
+<img src="./1.png" width="800px" />
 
+<img src="./2.png" width="800px" />
 
