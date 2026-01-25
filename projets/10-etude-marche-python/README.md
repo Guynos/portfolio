@@ -1,6 +1,6 @@
-Projet 11 : La Poule qui Chante – Étude de faisabilité à l’export (ACP + Clustering)
-
-🎯 Objectifs  
+# Projet 10 : La Poule qui Chante – Étude de faisabilité à l’export (ACP + Clustering)
+ 
+# 🎯 Objectifs  
 Proposer au COMEX des **groupements de pays** à cibler pour exporter des poulets “AB”, avec une démarche claire et des recommandations compréhensibles (15 min, peu technique). :contentReference[oaicite:0]{index=0}
 
 Pour cela, nous allons :
@@ -12,21 +12,21 @@ Pour cela, nous allons :
 - Réaliser une **ACP** + un **clustering** (notebook 2 séparé) : CAH puis K-Means. :contentReference[oaicite:6]{index=6}
 - Présenter les résultats + recommandations (pays/segments) dans un **support** adapté au COMEX. :contentReference[oaicite:7]{index=7}
 
-📋 Présentation du sujet  
+# 📋 Présentation du sujet  
 
-Contexte  
+# Contexte  
 La Poule qui Chante est une entreprise française d’agroalimentaire dont l’activité principale est l’élevage et la vente de poulets labellisés “Poulet Agriculture Biologique”.  
 Le PDG souhaite évaluer un développement à l’international, sans pays cible défini à ce stade (tous les pays sont envisageables). :contentReference[oaicite:8]{index=8}
 
-La demande métier  
+# La demande métier  
 Objectif principal : **identifier des groupes de pays** pertinents à cibler pour une première phase d’export, avant l’étude de marché détaillée. :contentReference[oaicite:9]{index=9}
 
-Les données  
+# Les données  
 - Point de départ : données **FAO** (pièce jointe au brief). :contentReference[oaicite:10]{index=10}  
 - Enrichissement : données open data (FAO, Banque Mondiale, etc.) guidé par **PESTEL**. :contentReference[oaicite:11]{index=11}  
 - Contraintes : au minimum **8 variables**, au moins **100 pays**, couvrant **60%** de la population mondiale. :contentReference[oaicite:12]{index=12}
 
-Les analyses attendues (notebooks)  
+# Les analyses attendues (notebooks)  
 Notebook 1 — Exploration  
 - Contrôles qualité (valeurs manquantes, cohérence, outliers, distributions).  
 - Premières lectures (corrélations, tendances, ordres de grandeur). :contentReference[oaicite:13]{index=13}
@@ -37,12 +37,12 @@ Notebook 2 — ACP + Clustering
   - commencer par une **CAH** (classification ascendante hiérarchique),  
   - puis un **K-Means** (sur données ACP ou données brutes). :contentReference[oaicite:15]{index=15}
 
-Comment lire les résultats (repères “COMEX”)  
+# Comment lire les résultats (repères “COMEX”)  
 - **ACP** : sert à résumer l’information de plusieurs variables en quelques axes lisibles et comparables. :contentReference[oaicite:16]{index=16}  
 - **Clustering** : regroupe les pays “qui se ressemblent” pour proposer des segments cibles cohérents (au lieu de choisir un pays au hasard). :contentReference[oaicite:17]{index=17}  
 - **CAH vs K-Means** : deux méthodes de regroupement à comparer (cohérence / différences de segmentation). :contentReference[oaicite:18]{index=18}
 
-Livrables attendus  
+# Livrables attendus  
 - 2 notebooks :  
   1) exploration des données,  
   2) ACP + clustering (séparé). :contentReference[oaicite:19]{index=19}  

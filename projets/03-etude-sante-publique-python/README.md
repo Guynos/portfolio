@@ -22,3 +22,8 @@ Réaliser une étude sur le thème de la sous-nutrition et livrer nos analyses.
 * Rédiger et présenter une méthodologie d'exploration et d'analyse des données.
 * Utiliser des librairies spécialisées pour les traitements data.
 * Manipuler des DataFrames
+
+<img src="./img1.png" width="800px" />
+<img src="./img2.png" width="800px" />
+<img src="./img3.png" width="800px" />
+<img src="./img4.png" width="800px" />

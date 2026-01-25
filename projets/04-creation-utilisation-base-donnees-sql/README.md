@@ -23,3 +23,7 @@ Nous sommes *Data Analyst* chez Laplace Immo, un réseau national d’agences im
 * Effectuer des requêtes SQL pour répondre à une problématique métier.
 * Créer le schéma d'une base de données.
 * Charger des données dans une base de données.
+
+<img src="./img1.png" width="800px" />
+<img src="./img2.png" width="800px" />
+<img src="./img3.png" width="800px" />

@@ -24,8 +24,8 @@ a venir
 
 ## &#128295; Outils utilisés
 
-* **a venir** :
-* **a venir** :
+* **Power Query** 
+* **Power BI** 
 
 ## &#127891; Compétences acquises
 
