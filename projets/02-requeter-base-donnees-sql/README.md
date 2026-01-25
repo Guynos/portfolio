@@ -1,4 +1,4 @@
-\# Projet 2 : Requêtez une base de données avec SQL
+# Projet 2 : Requêtez une base de données avec SQL
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## \&#128203; Scénario
+## &#128203; Scénario
 
 
 
@@ -20,11 +20,11 @@ chacune des étapes ci-dessous.
 
 
 
-\## \&#127919; Objectifs
+## &#127919; Objectifs
 
 
 
-\* Produire un document technique : exploration des données, logique du schémas relationnel
+* Produire un document technique : exploration des données, logique du schémas relationnel
 
 * Code SQL pour répondre aux questions
 
@@ -32,33 +32,33 @@ chacune des étapes ci-dessous.
 
 
 
-\## \&#128295; Outils utilisés
+## &#128295; Outils utilisés
 
 
 
-\* \*\*Excel\*\* : tableaux croisés dynamique, graphique.
+* **Excel** : tableaux croisés dynamique, graphique.
 
-\* \*\*SQLite\*\* : Quetionner la BDD.
+* **SQLite** : Quetionner la BDD.
 
-\* \*\*Power Architect\*\* : Création de la BDD.
+* **Power Architect** : Création de la BDD.
 
-\* \*\*Power Point\*\* : Présentation des résultats.
-
-
+* **Power Point** : Présentation des résultats.
 
 
 
 
 
-\## \&#127891; Compétences acquises
+
+
+## &#127891; Compétences acquises
 
 
 
-\* Langage SQL
+* Langage SQL
 
-\* Création BDD
+* Création BDD
 
-\* Modèle relationnel
+* Modèle relationnel
 
 
 
