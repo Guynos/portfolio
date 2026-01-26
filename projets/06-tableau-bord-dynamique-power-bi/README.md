@@ -1,35 +1,26 @@
-# Projet 6 : Créez un tableau de bord dynamique avec Power BI pour visualiser l'avancement de projets
+Projet 6 : Tableau de bord Power BI — Suivi d’avancement de projets (Sanitoral)
 
-## &#128203; Scénario
+📋 Scénario  
+Vous êtes consultant Data Analyst chez ESN Data, déployé chez Sanitoral (industrie des soins bucco-dentaires).  
+Le service PMO (Sophie, cheffe de projet) a besoin d’un tableau de bord pour suivre l’avancement des projets, les coûts, et repérer rapidement les retards afin de piloter des actions.
 
-Vous êtes consultant Data Analyst chez ESN Data, une entreprise de services numériques (ESN).
+🎯 Objectifs  
+Produire un tableau de bord Power BI permettant de :
+- suivre l’avancement et les coûts des projets ;
+- identifier les retards et dérives ;
+- formaliser le besoin via des user stories (Product Strategy Canvas) ;
+- proposer un axe stratégique issu de l’analyse.
 
-Vous êtes déployé chez le client Sanitoral pour réaliser une mission de visualisation de données (appelée également dataviz). Il s’agit d’une société internationale qui fabrique et commercialise des soins bucco-dentaires.
+🔧 Outils utilisés  
+- Power BI : modèle de données, mesures, visualisations, publication du reporting.  
+- Power Query : préparation et automatisation du nettoyage / transformations.  
+- Visuel Gantt (extension Power BI) : représentation du planning.
 
-Sophie est cheffe de projet au sein du service Project Management Office de Sanitoral. Vous l’avez rencontrée pour comprendre le besoin de l’entreprise.
-
-Son service a besoin d’un tableau de bord pour :
-
-suivre l'avancement des projets et les coûts ;
-
-identifier les retards ;
-
-contrôler les performances, afin que l’équipe puisse mener les actions adéquates.
-
-Vous lui envoyez la note de cadrage du projet que vous avez établie lors de votre réunion avec elle. Avant de vous lancer dans la construction du tableau de bord, vous décidez de formaliser les user stories dans un Product Strategy Canvas à l’aide de ce modèle utilisé par les collaborateurs de ESN Data.
-
-## &#127919; Objectifs
-
-a venir
-
-## &#128295; Outils utilisés
-
-* **Power Query** 
-* **Power BI** 
-
-## &#127891; Compétences acquises
-
-* a venir
+🎓 Compétences acquises  
+- Préparer et transformer des données avec Power Query.  
+- Modéliser des données et construire un reporting interactif sous Power BI.  
+- Concevoir des visualisations de pilotage (coûts, retards, avancement).  
+- Structurer une restitution (storytelling + recommandations).
 
 ## Images :
 

@@ -1,53 +1,32 @@
-# Projet 10 : La Poule qui Chante – Étude de faisabilité à l’export (ACP + Clustering)
- 
-# 🎯 Objectifs  
-Proposer au COMEX des **groupements de pays** à cibler pour exporter des poulets “AB”, avec une démarche claire et des recommandations compréhensibles (15 min, peu technique). :contentReference[oaicite:0]{index=0}
+Projet 10 : La Poule qui Chante – Étude de faisabilité à l’export (ACP + Clustering)
 
-Pour cela, nous allons :
-- Partir des données **FAO** fournies et compléter avec d’autres sources open data. :contentReference[oaicite:1]{index=1}
-- Utiliser une analyse **PESTEL** pour identifier des variables utiles à ajouter (minimum **8 variables**). :contentReference[oaicite:2]{index=2}
-- Préparer / nettoyer les données et regrouper les sources dans un **fichier unique** si nécessaire. :contentReference[oaicite:3]{index=3}
-- Construire un périmètre robuste : **≥ 100 pays** couvrant **≥ 60%** de la population mondiale. :contentReference[oaicite:4]{index=4}
-- Réaliser une **exploration** des données (notebook 1). :contentReference[oaicite:5]{index=5}
-- Réaliser une **ACP** + un **clustering** (notebook 2 séparé) : CAH puis K-Means. :contentReference[oaicite:6]{index=6}
-- Présenter les résultats + recommandations (pays/segments) dans un **support** adapté au COMEX. :contentReference[oaicite:7]{index=7}
+📋 Scénario  
+Vous travaillez pour **La Poule qui Chante**, une entreprise française d’agroalimentaire qui élève et vend des poulets labellisés “Poulet Agriculture Biologique”.  
+Le PDG souhaite évaluer un développement à l’international, sans pays cible défini : tous les pays sont envisageables.  
+Votre mission est d’identifier des **groupements de pays** pertinents à cibler pour une première phase d’export. :contentReference[oaicite:0]{index=0}
 
-# 📋 Présentation du sujet  
+🎯 Objectifs  
+Proposer au COMEX des **segments de pays** à cibler (présentation 15 min, peu technique), en :
+- partant des données **FAO** et en complétant avec des sources open data ; :contentReference[oaicite:1]{index=1}  
+- utilisant une analyse **PESTEL** pour sélectionner des variables pertinentes (minimum **8 variables**) ; :contentReference[oaicite:2]{index=2}  
+- constituant un périmètre robuste : **≥ 100 pays** couvrant **≥ 60%** de la population mondiale ; :contentReference[oaicite:3]{index=3}  
+- réalisant 2 notebooks : (1) exploration, (2) **ACP + clustering** (CAH puis K-Means) ; :contentReference[oaicite:4]{index=4}  
+- produisant des recommandations de pays/segments compréhensibles par des décideurs. :contentReference[oaicite:5]{index=5}
 
-# Contexte  
-La Poule qui Chante est une entreprise française d’agroalimentaire dont l’activité principale est l’élevage et la vente de poulets labellisés “Poulet Agriculture Biologique”.  
-Le PDG souhaite évaluer un développement à l’international, sans pays cible défini à ce stade (tous les pays sont envisageables). :contentReference[oaicite:8]{index=8}
+🔧 Outils utilisés  
+- Python : préparation, exploration et analyses statistiques. :contentReference[oaicite:6]{index=6}  
+- Notebook 1 : exploration et contrôles qualité. :contentReference[oaicite:7]{index=7}  
+- Notebook 2 : ACP + CAH + K-Means. :contentReference[oaicite:8]{index=8}  
+- PowerPoint (ou équivalent) : présentation des résultats au COMEX. :contentReference[oaicite:9]{index=9}
 
-# La demande métier  
-Objectif principal : **identifier des groupes de pays** pertinents à cibler pour une première phase d’export, avant l’étude de marché détaillée. :contentReference[oaicite:9]{index=9}
+🎓 Compétences acquises  
+- Définir des variables pertinentes à partir d’une analyse **PESTEL** et de sources open data. :contentReference[oaicite:10]{index=10}  
+- Préparer et consolider des données multi-sources pour une analyse internationale. :contentReference[oaicite:11]{index=11}  
+- Réaliser une **ACP** (réduction de dimension, cercle des corrélations, projection des individus). :contentReference[oaicite:12]{index=12}  
+- Mettre en œuvre et comparer deux approches de **clustering** (CAH et K-Means). :contentReference[oaicite:13]{index=13}  
+- Transformer des résultats statistiques en **recommandations business** (segments/pays cibles). :contentReference[oaicite:14]{index=14}
 
-# Les données  
-- Point de départ : données **FAO** (pièce jointe au brief). :contentReference[oaicite:10]{index=10}  
-- Enrichissement : données open data (FAO, Banque Mondiale, etc.) guidé par **PESTEL**. :contentReference[oaicite:11]{index=11}  
-- Contraintes : au minimum **8 variables**, au moins **100 pays**, couvrant **60%** de la population mondiale. :contentReference[oaicite:12]{index=12}
 
-# Les analyses attendues (notebooks)  
-Notebook 1 — Exploration  
-- Contrôles qualité (valeurs manquantes, cohérence, outliers, distributions).  
-- Premières lectures (corrélations, tendances, ordres de grandeur). :contentReference[oaicite:13]{index=13}
-
-Notebook 2 — ACP + Clustering  
-- **ACP** : réduction de dimension, analyse du cercle des corrélations, projection des individus. :contentReference[oaicite:14]{index=14}  
-- **Clustering** :  
-  - commencer par une **CAH** (classification ascendante hiérarchique),  
-  - puis un **K-Means** (sur données ACP ou données brutes). :contentReference[oaicite:15]{index=15}
-
-# Comment lire les résultats (repères “COMEX”)  
-- **ACP** : sert à résumer l’information de plusieurs variables en quelques axes lisibles et comparables. :contentReference[oaicite:16]{index=16}  
-- **Clustering** : regroupe les pays “qui se ressemblent” pour proposer des segments cibles cohérents (au lieu de choisir un pays au hasard). :contentReference[oaicite:17]{index=17}  
-- **CAH vs K-Means** : deux méthodes de regroupement à comparer (cohérence / différences de segmentation). :contentReference[oaicite:18]{index=18}
-
-# Livrables attendus  
-- 2 notebooks :  
-  1) exploration des données,  
-  2) ACP + clustering (séparé). :contentReference[oaicite:19]{index=19}  
-- 1 support de présentation (15 min) :  
-  - contexte,  
-  - démarche (collecte + préparation + analyses),  
-  - résultats (segments),  
-  - recommandations de pays/segments à prioriser. :contentReference[oaicite:20]{index=20}
+<img src="./img1.png" width="800px" />
+<img src="./img2.png" width="800px" />
+<img src="./img3.png" width="800px" />
