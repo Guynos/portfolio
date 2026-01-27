@@ -40,8 +40,6 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 | 6 — Réalisation | Dashboard profil (capture) | PNG | [Ouvrir](./Dashboard_profil.png) |
 | 7 — Formation | Vidéo de formation (prise en main / démonstration) | Loom | https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d |
 | 8 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
-| 9 — Annexes | Données (sources / fichiers de travail) | Dossier | ./données/ |
-| 10 — Annexes | Power BI (PBIX, exports, etc.) | Dossier | ./Power_BI/ |
 
 
 
