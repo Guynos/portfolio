@@ -36,19 +36,22 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 | 2 — Cadrage | Analyse des besoins métiers – Aéroworld | PDF | [Ouvrir](./Analyse_des_besoins_métiers_Aéroworld.pdf) |
 | 3 — Cadrage | Cahier des charges fonctionnel | PDF | [Ouvrir](./Cahier_des_charges_fonctionnel.pdf) |
 | 4 — Planification | Diagramme de Gantt (projet portfolio) | PNG | [Ouvrir](./gantt_portfolio.png) |
-| 5 — Réalisation | Dashboard veille (capture) | PNG | [Ouvrir](./dashboard_veille.png) |
-| 6 — Réalisation | Dashboard profil (capture) | PNG | [Ouvrir](./Dashboard_profil.png) |
-| 7 — Formation | Vidéo de formation (prise en main / démonstration) | Loom | https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d |
-| 8 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
+| 5 — Formation | Vidéo de formation (prise en main / démonstration) | Loom | https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d |
+| 6 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
+
+
+### 📁 Accès aux dossiers (fichiers sources)
+- Données : [Ouvrir le dossier](<./données/>)
+- Power BI : [Ouvrir le dossier](<./Power_BI/>)
 
 
 
 ## 🖼️ Aperçus (dashboards)
 
 
-<img src="./dashboard veille.png" width="800px" />
-<img src="./Dashboard profil.png" width="800px" />
-<img src="./gantt portfolio.png" width="800px" />
+<img src="./dashboard_veille.png" width="800px" />
+<img src="./Dashboard_profil.png" width="800px" />
+<img src="./gantt_portfolio.png" width="800px" />
 
 🔧 Outils utilisés  
 - **GitHub** : portfolio en ligne + structuration des livrables.  
