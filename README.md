@@ -44,6 +44,8 @@
 
 * [11 — Détectez les faux billets](./projets/11-detectez-faux-billets/)
 
+* [12 — AeroWorld](./projets/12-AeroWorld/)
+
 
 
 ## &#128295; Outils utilisés
