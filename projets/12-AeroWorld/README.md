@@ -58,8 +58,3 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 - **Former et accompagner** (pédagogie, démonstration, vulgarisation).  
 - Produire une **documentation** fiable et maintenable (procédures, standards).  
 - Adopter une **posture de consultant** (challenge, recommandations, rigueur).
-
-## Aperçus
-<img src="./img1.png" width="800px" />
-<img src="./img2.png" width="800px" />
-<img src="./img3.png" width="800px" />
