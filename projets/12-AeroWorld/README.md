@@ -16,18 +16,6 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 - créant une **vidéo de formation** (Loom ou équivalent) sur la prise en main / création de visuels (≈ 8 min ou +) ;
 - rédigeant une **documentation** claire et actionnable (procédures).
 
-| Étape | Livrable | Format | Accès |
-|---|---|---|---|
-| 1 — Organisation | Carte mentale (structure du portfolio + livrables) | Miro | https://miro.com/app/board/uXjVIlKdtlQ=/ |
-| 2 — Cadrage | Analyse des besoins métiers – Aéroworld | PDF | ./Analyse des besoins métiers – Aéroworld.pdf |
-| 3 — Cadrage | Cahier des charges fonctionnel | PDF | ./Cahier des charges fonctionnel.pptx.pdf |
-| 4 — Planification | Diagramme de Gantt (projet portfolio) | PNG | ./gantt portfolio.png |
-| 5 — Réalisation | Dashboard veille (capture) | PNG | ./dashboard veille.png |
-| 6 — Réalisation | Dashboard profil (capture) | PNG | ./Dashboard profil.png |
-| 7 — Formation | Vidéo Loom (prise en main / démonstration) | Loom | https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d |
-| 8 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | ./Procédure de création d'un graphique d'analyse data.pdf |
-| 9 — Annexes | Données (sources / fichiers de travail) | Dossier | ./données/ |
-| 10 — Annexes | Fichiers Power BI (PBIX, exports, etc.) | Dossier | ./Power BI/ |
 
 
 | Étape | Livrable | Format | Accès |
@@ -51,7 +39,7 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 
 <img src="./dashboard_veille.png" width="800px" />
 <img src="./Dashboard_profil.png" width="800px" />
-<img src="./gantt_portfolio.png" width="800px" />
+
 
 🔧 Outils utilisés  
 - **GitHub** : portfolio en ligne + structuration des livrables.  
