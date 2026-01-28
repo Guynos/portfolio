@@ -1,4 +1,4 @@
-# Projet 13 : Aéroworld — Portfolio de candidature (Veille + Dashboards + Documentation)
+# Projet 13 : Aéroworld — Portfolio de candidature
 
 📋 Scénario  
 Vous êtes consultant data chez **Data ESN**. Suzanne vous positionne sur une mission chez **Aéroworld**, entreprise aéronautique gérant de la data à grande échelle (volumétrie, intégration multi-sources, sécurité).  
