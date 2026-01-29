@@ -1,4 +1,4 @@
-# Projet 13 : Aéroworld — Portfolio de candidature (Veille + Dashboards + Documentation)
+# Projet 12 : Aéroworld — Portfolio de candidature
 
 📋 Scénario  
 Vous êtes consultant data chez **Data ESN**. Suzanne vous positionne sur une mission chez **Aéroworld**, entreprise aéronautique gérant de la data à grande échelle (volumétrie, intégration multi-sources, sécurité).  
@@ -13,7 +13,7 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 - concevant 2 **tableaux de bord** :
   - un dashboard **veille** (suivi, priorisation, avancement),
   - un dashboard **profil** (présentation structurée du parcours/compétences) ;
-- créant une **vidéo de formation** (Loom ou équivalent) sur la prise en main / création de visuels (≈ 8 min ou +) ;
+- créant une **vidéo de formation** (Loom) sur la prise en main / création de visuels (≈ 8 min ou +) ;
 - rédigeant une **documentation** claire et actionnable (procédures).
 
 
@@ -28,13 +28,13 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 | 6 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
 
 
-### 📁 Accès aux dossiers (fichiers sources)
+### 📁 Accès aux dossiers
 - Données : [Ouvrir le dossier](<./données/>)
 - Power BI : [Ouvrir le dossier](<./Power_BI/>)
 
 
 
-## 🖼️ Aperçus (dashboards)
+## 🖼️ Aperçus
 
 
 <img src="./dashboard_veille.png" width="800px" />
@@ -42,12 +42,12 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 
 
 🔧 Outils utilisés  
-- **GitHub** : portfolio en ligne + structuration des livrables.  
-- **Power BI** : conception des 2 dashboards (veille + profil) + Digramme de Gantt.  
+- **GitHub** : portfolio en ligne  
+- **Power BI** : conception des 2 dashboards (veille + profil + Digramme de Gantt).  
 - **Miro** : Carte mentale.  
 - **Loom** : vidéo de formation.  
 - **Word** : rédaction CDC + documentation.  
-- **Excel**: préparation / structuration des données de veille.
+- **Excel**: préparation / structuration des données de veille, de profil ainsi que de planification.
 
 🎓 Compétences démontrées / acquises  
 - Effectuer une **veille métier et technologique** (tests, priorisation, synthèse).  
