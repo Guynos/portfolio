@@ -20,25 +20,22 @@ Construire un portfolio de candidature qui démontre les compétences attendues 
 
 | Étape | Livrable | Format | Accès |
 |---|---|---|---|
-| 1 — Organisation | Carte mentale (structure + livrables) | Miro | https://miro.com/app/board/uXjVIlKdtlQ=/ |
+| 1 — Organisation | Carte mentale (structure + livrables) | Miro | [Ouvrir](https://miro.com/app/board/uXjVIlKdtlQ=/) |
 | 2 — Cadrage | Analyse des besoins métiers – Aéroworld | PDF | [Ouvrir](./Analyse_des_besoins_métiers_Aéroworld.pdf) |
 | 3 — Cadrage | Cahier des charges fonctionnel | PDF | [Ouvrir](./Cahier_des_charges_fonctionnel.pdf) |
 | 4 — Planification | Diagramme de Gantt (projet portfolio) | PNG | [Ouvrir](./gantt_portfolio.png) |
-| 5 — Formation | Vidéo de formation (prise en main / démonstration) | Loom | https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d |
-| 6 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
+| 5 — Design | Mockup dashboard veille | PNG | [Ouvrir](./img2.png) |
+| 6 — Design | Mockup dashboard profil | PNG | [Ouvrir](./img1.png) |
+| 7 — Réalisation | Dashboard veille (capture) | PNG | [Ouvrir](./dashboard_veille.png) |
+| 8 — Réalisation | Dashboard profil (capture) | PNG | [Ouvrir](./Dashboard_profil.png) |
+| 9 — Formation | Vidéo de formation (prise en main / démonstration) | Loom | [Ouvrir](https://www.loom.com/share/4618f8e0423d458188da8e71b25b186d) |
+| 10 — Documentation | Procédure de création d’un graphique d’analyse data | PDF | [Ouvrir](./Procédure_de_création_d'un_graphique_d'analyse_data.pdf) |
 
 
 ### 📁 Accès aux dossiers
 - Données : [Ouvrir le dossier](<./données/>)
 - Power BI : [Ouvrir le dossier](<./Power_BI/>)
 
-
-
-## 🖼️ Aperçus
-
-
-<img src="./dashboard_veille.png" width="800px" />
-<img src="./Dashboard_profil.png" width="800px" />
 
 
 🔧 Outils utilisés  
